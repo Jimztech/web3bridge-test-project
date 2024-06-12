@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jimztech.github.io/web3bridge-test-project",
+  "homepage": "https://github.com/Jimztech/web3bridge-test-project",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
